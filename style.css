@@ -1,0 +1,76 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #f0cbfb;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 82px;
+  top: 53px;
+}
+.homepage-about-contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 872px;
+  top: 70px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 203px;
+  top: 358px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-coresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 141px;
+  top: 461px;
+  width: 1158px;
+  height: 90px;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 630px;
+  top: 620px;
+  overflow: visible;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 650px;
+  top: 634px;
+}

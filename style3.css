@@ -1,0 +1,69 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #f0cbfb;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 82px;
+  top: 53px;
+}
+.homepage-about-contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 872px;
+  top: 70px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 552px;
+  top: 296px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 141px;
+  top: 390px;
+  width: 1158px;
+  height: 90px;
+}
+.professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 141px;
+  top: 527px;
+  width: 1158px;
+  height: 311px;
+}

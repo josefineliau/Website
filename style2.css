@@ -1,0 +1,69 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #f0cbfb;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 82px;
+  top: 53px;
+}
+.homepage-about-contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 872px;
+  top: 70px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 9px;
+  top: 273px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functinoal-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 141px;
+  top: 385px;
+  width: 1158px;
+  height: 90px;
+}
+.semester-details-spring-2025-professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 141px;
+  top: 657px;
+  width: 1158px;
+  height: 311px;
+}
